@@ -7,7 +7,7 @@ import urllib.request
 
 lcd = LCD()
 str_pad = " " * 16
-API = 'YOUR API KEY HERE'
+API = 'YOUR_API_KEY_HERE'
 
 countryCode = input('Enter two letter country code: ')
 cityOrCode = input('City or ZipCode: ')
