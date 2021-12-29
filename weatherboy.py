@@ -52,7 +52,7 @@ def current(location_key):
         for i in range(0, len(localDateTime)):
             ldt = localDateTime[i:i+16]
             lcd.text(ldt, 2)
-            sleep(.2)
+            sleep(.3)
         lcd.clear()
 
         lcd.text(cityOrCode.replace('%20', ' ')+', '+countryCode+':', 1)
