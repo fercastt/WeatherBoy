@@ -13,7 +13,7 @@
 ## Features
     - Date, and time around 10 minutes before request.
     - Short message describing current conditions in city (or zipcode).
-    - Temperature, in Farenheit.
+    - Temperature, in Farenheit and Celsius.
     - Precipitation for the past 12 hours, in inches.
     - Wind Speed, in miles/hr.
     - Relative humidity.
