@@ -28,9 +28,8 @@
         In the I2c:
         Connect GND to a GND in the breadboard.
         Connect VCC to 5V0 on breadboard.
-        In the I2C Connect SDA to SDA1 in breadboard.
-        In the I2C, connect the SCL to the SCL1 in breadboard.
-    Remember that if you have the GPIO Extension Board, that's how you'll know where to connect in the breadboard.
+        Connect SDA to SDA1 in breadboard.
+        Connect the SCL to the SCL1 in breadboard.
 ## Get the API key
     - Register and get an API key at accuweather. -> https://developer.accuweather.com/user/register
     - Create a new app and you'll have the API key.
