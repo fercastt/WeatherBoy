@@ -29,7 +29,7 @@
         Connect GND to a GND in the breadboard.
         Connect VCC to 5V0 on breadboard.
         Connect SDA to SDA1 in breadboard.
-        Connect the SCL to the SCL1 in breadboard.
+        Connect SCL to the SCL1 in breadboard.
 ## Get the API key
     - Register and get an API key at accuweather. -> https://developer.accuweather.com/user/register
     - Create a new app and you'll have the API key.
