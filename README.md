@@ -1,9 +1,9 @@
 # Name
     - WeatherBoy (AccuWeather Python Raspberry Pi 4 API)
 ## Description
-    - An international weather station in just two lines (of display)
-    - A minimalistic weather station with Raspberry Pi 4b.
-    - A Python and Accuweather API for current wheater conditions by city.
+    - International weather station in just two lines (of display)
+    - Minimalistic weather station with Raspberry Pi 4b.
+    - Python and Accuweather API for current wheater conditions by city.
 ## Requirements
     - Python 3
     - Raspberry Pi 4b
@@ -31,10 +31,10 @@
         Connect SDA to SDA1 in breadboard.
         Connect SCL to the SCL1 in breadboard.
 ## Get the API key
-    - Register and get an API key at accuweather. -> https://developer.accuweather.com/user/register
-    - Create a new app and you'll have the API key.
-## Use
+    - Register and get an API key at Accuweather. -> https://developer.accuweather.com/user/register
+    - Create a new app in Accuweather and you'll have the API key.
+## How to Use
     - Use your API key and run the code.
-    - Input the two letter country code(alpha-2(ISO 3166)).
+    - Input the two letter country code (alpha-2(ISO 3166)).
     - Input the city name or zipcode (if applies).
     - Enjoy the loop.
